@@ -63,3 +63,11 @@ given that the user is not registered,
 
 Test the scenario that will cause failure first - that is the priority. Test the success scenario last. For password, there are actually two scenarios, which is valid (length validation, format etc) and correctness (it matches the user password).
 Also, we want to ensure that the user's password is not stored as plain text in the db, so it should be an additional test too.
+
+## Fuzz Testing (Fuzzing)
+
+https://en.wikipedia.org/wiki/American_fuzzy_lop_(fuzzer)
+
+## QuickCheck
+
+Property testing.
