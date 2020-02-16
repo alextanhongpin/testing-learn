@@ -71,3 +71,26 @@ https://en.wikipedia.org/wiki/American_fuzzy_lop_(fuzzer)
 ## QuickCheck
 
 Property testing.
+
+
+## String
+
+Prepare fixtures for text:
+
+- Long/short
+- No whitespace long
+- Empty
+- Just white space
+- Start white space
+- End white space
+- Chinese
+- Korean
+- Accented
+- Foreign
+- Emoji
+- Scripts
+- SQL injection
+- Links 
+- Promo code
+- Email
+- Phone number
